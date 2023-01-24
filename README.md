@@ -1,4 +1,4 @@
-# SHUTi for Researchers
+# Sleep Diary Data - Formatting and Outcomes Computation for SHUTi for Researchers
 
 This github page houses an R Markdown document & accompanying syntax that was developed by the SHUTi for Researchers team to ensure that all SHUTi users compute sleep diary variables in the same way. You will at times need to edit the syntax where directed; however, please DO NOT alter the formulas or reuse the syntax without permission of the SHUTi for Researchers team. 
 
@@ -9,3 +9,5 @@ IMPORTANT NOTE: We may periodically update this document. To ensure that you are
 Finally, for those interested in learning more about the function of individual lines of code, please contact the SHUTi for Researchers team, who can share a more extensively commented version of the general syntax.
 
 We hope that the syntax we have prepared substantially reduces the time needed to manage your SHUTi diary data and compute your diary outcomes. Please site this page in any work that leverages aspects of that which we share here. 
+
+Citation: Shaffer, K.M., Daniel, K.E., & Ritterband, L.M.  (2023). Sleep Diary Data - Formatting and Outcomes Computation for SHUTi for Researchers (Version 1.0) [Source code]. https://github.com/BHT/SHUTiForResearchers
