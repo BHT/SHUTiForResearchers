@@ -4,7 +4,7 @@ This github page houses an R Markdown file with directions and syntax that was d
 
 Before you begin, we recommend that you first read through the PDF document of the RMarkdown code. Focus on the directions between the 'chunks' of syntax code, and look out for places where you will need to modify the code based on idiosyncracies of your data and files (denoted with "##EDITING (MAY BE) REQUIRED" tags). 
 
-**IMPORTANT NOTE:** We may periodically update this file. To ensure that you are using the most up-to-date syntax, confirm that your file name matches the following: "Sleep Diary Syntax_GitHub_v2.RMD" / "Sleep Diary Syntax_GitHub_v2.PDF." Individual researchers are responsible for updating their syntax version in parallel with updates to this page.
+**IMPORTANT NOTE:** We may periodically update this file. To ensure that you are using the most up-to-date syntax, confirm that your file name matches the following: "Sleep Diary Syntax_GitHub_v2.RMD" / "Sleep Diary Syntax_GitHub_v2.PDF." Individual researchers are responsible for updating their syntax version in parallel with updates to this page. Changes between versions are logged of in the "Sleep Diary Syntax Updates.docx" document.
 
 Finally, for those interested in learning more about the function of individual lines of code, please contact the SHUTi for Researchers team, who can share a more extensively commented version of the general syntax.
 
