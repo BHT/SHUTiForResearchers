@@ -10,4 +10,6 @@ Finally, for those interested in learning more about the function of individual 
 
 We hope that the syntax we have prepared substantially reduces the time needed to manage your SHUTi diary data and compute your diary outcomes. For any presentations or published works that leverages files shared here, please cite this GitHub page: 
 
-**Citation: Shaffer, K.M., Daniel, K.E., & Ritterband, L.M.  (2023). Sleep Diary Data - Formatting and Outcomes Computation for SHUTi for Researchers (Version 2.0) [Source code]. https://github.com/BHT/SHUTiForResearchers**
+**Citation: Shaffer, K.M., Daniel, K.E., & Ritterband, L.M.  (2023). Sleep Diary Data - Formatting and Outcomes Computation for SHUTi for Researchers (Version 2.0) [Source code]. https://github.com/BHT/SHUTiForResearchers. DOI: 10.5281/zenodo.7938322**
+
+<a href="https://zenodo.org/badge/latestdoi/575117449"><img src="https://zenodo.org/badge/575117449.svg" alt="DOI"></a>
