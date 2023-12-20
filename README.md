@@ -8,6 +8,8 @@ Before you begin, we recommend that you first read through the PDF document of t
 
 Finally, for those interested in learning more about the function of individual lines of code, please contact the SHUTi for Researchers team, who can share a more extensively commented version of the general syntax.
 
-We hope that the syntax we have prepared substantially reduces the time needed to manage your SHUTi diary data and compute your diary outcomes. For any presentations or published works that leverages files shared here, please cite this GitHub page: 
+We hope that the syntax we have prepared substantially reduces the time needed to manage your SHUTi diary data and compute your diary outcomes. **For any presentations or published works that leverages files shared here, please cite both the sleep diary manuscript as well as this GitHub page:** 
 
-**Citation: Shaffer, K.M., Daniel, K.E., & Ritterband, L.M.  (2023). Sleep Diary Data - Formatting and Outcomes Computation for SHUTi for Researchers (Version 3.0) [Source code]. https://github.com/BHT/SHUTiForResearchers. DOI: 10.5281/zenodo.7938321**
+**Shaffer, K. M., Daniel, K. E., Frederick, C., Buysse, D. J., Morin, C. M., & Ritterband, L. M. (2023). Online sleep diaries: Considerations for system development and recommendations for data management. Sleep, 46(10), zsad199. DOI: 10.1093/sleep/zsad199**
+
+**Shaffer, K.M., Daniel, K.E., & Ritterband, L.M.  (2023). Sleep Diary Data - Formatting and Outcomes Computation for SHUTi for Researchers (Version 3.0) [Source code]. https://github.com/BHT/SHUTiForResearchers. DOI: 10.5281/zenodo.7938321**
